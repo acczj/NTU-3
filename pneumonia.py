@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 16 10:39:09 2022
-
-@author: acczj
-"""
-
 from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
 from skimage import io
